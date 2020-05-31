@@ -1,0 +1,12 @@
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\DotaReminders.exe.config
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\DotaReminders.exe
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\DotaReminders.pdb
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\Dota2GSI.dll
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\Dota2GSI.xml
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\obj\Debug\DotaReminders.csprojAssemblyReference.cache
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\obj\Debug\DotaReminders.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\obj\Debug\DotaReminders.csproj.CopyComplete
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\obj\Debug\DotaReminders.exe
+C:\Users\Fredrik\source\repos\DotaReminders\DotaReminders\obj\Debug\DotaReminders.pdb
